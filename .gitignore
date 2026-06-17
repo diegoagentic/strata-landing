@@ -1,0 +1,10 @@
+node_modules
+dist
+.vite
+.env.local
+*.log
+
+# Third-party design skills installed via `npx skills add` (Impeccable, Taste)
+.agents
+
+.vercel
