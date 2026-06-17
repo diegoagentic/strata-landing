@@ -31,7 +31,7 @@ export const pillars: Pillar[] = [
   },
   {
     title: 'One ecosystem',
-    body: 'Every product shares one flow — entered once, never re-typed.',
+    body: 'Every step shares one flow — entered once, never re-typed.',
     icon: Squares2X2Icon,
   },
   {
@@ -51,7 +51,7 @@ export const products: Product[] = [
       'Maps line items to your catalog',
       'Drafts the quote — no copy-paste',
     ],
-    href: '#',
+    href: 'https://dev-strata.orderbahn.com/quote-converter/login?returnTo=%2F',
     icon: DocumentMagnifyingGlassIcon,
   },
   {
@@ -62,7 +62,7 @@ export const products: Product[] = [
       'Auto-resolves the routine exceptions',
       'Escalates only what needs a human',
     ],
-    href: '#',
+    href: 'https://dev-strata.orderbahn.com/smart-comparator/login?returnTo=%2F',
     icon: ScaleIcon,
   },
 ]

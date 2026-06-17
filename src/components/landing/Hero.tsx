@@ -13,7 +13,7 @@ export default function Hero() {
 
       <p className="mt-5 max-w-xl text-base leading-relaxed text-muted-foreground">
         Strata is the ecosystem for contract dealers and manufacturers: AI runs the routine, your
-        experts handle the exceptions, and every product shares one flow — from quote to PO to
+        experts handle the exceptions, and every step shares one flow — from quote to PO to
         invoice, entered once and never re-typed.
       </p>
 
