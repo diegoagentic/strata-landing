@@ -36,7 +36,7 @@ export const pillars: Pillar[] = [
   },
   {
     title: 'On your tools',
-    body: 'Runs on top of Outlook, Teams and Excel — no rip-and-replace.',
+    body: 'Runs on top of the tools your team already uses — no rip-and-replace.',
     icon: InboxStackIcon,
   },
 ]

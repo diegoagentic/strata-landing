@@ -21,8 +21,8 @@ export default function Hero() {
         {pillars.map((pillar) => (
           <div key={pillar.title}>
             <dt className="flex items-center gap-2 text-sm font-semibold text-foreground">
-              <span className="inline-flex h-7 w-7 items-center justify-center rounded-lg border border-border">
-                <pillar.icon className="h-4 w-4 text-foreground" aria-hidden="true" />
+              <span className="inline-flex h-7 w-7 items-center justify-center rounded-lg bg-primary">
+                <pillar.icon className="h-4 w-4 text-primary-foreground" aria-hidden="true" />
               </span>
               {pillar.title}
             </dt>
