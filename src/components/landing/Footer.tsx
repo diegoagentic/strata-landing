@@ -18,12 +18,16 @@ export default function Footer() {
         <nav className="flex items-center gap-5 text-xs text-muted-foreground">
           <a
             href="https://dev-strata.orderbahn.com/quote-converter/login?returnTo=%2F"
+            target="_blank"
+            rel="noopener noreferrer"
             className="transition-colors hover:text-foreground"
           >
             Quote Converter
           </a>
           <a
             href="https://dev-strata.orderbahn.com/smart-comparator/login?returnTo=%2F"
+            target="_blank"
+            rel="noopener noreferrer"
             className="transition-colors hover:text-foreground"
           >
             Smart Comparator

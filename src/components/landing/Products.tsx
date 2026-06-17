@@ -52,6 +52,8 @@ export default function Products() {
 
               <a
                 href={product.href}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="mt-4 inline-flex items-center gap-1.5 rounded-full bg-primary px-4 py-1.5 text-[13px] font-semibold text-primary-foreground transition-colors hover:bg-primary/90"
               >
                 Open {product.name}
