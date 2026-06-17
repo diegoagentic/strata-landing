@@ -55,7 +55,7 @@ export const products: Product[] = [
     icon: DocumentMagnifyingGlassIcon,
   },
   {
-    name: 'Smart Comparator',
+    name: 'Hub Experience',
     tagline: 'Vendor acknowledgments checked against your POs in seconds.',
     points: [
       'Field-by-field PO vs. acknowledgment',

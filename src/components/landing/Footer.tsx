@@ -30,7 +30,7 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="transition-colors hover:text-foreground"
           >
-            Smart Comparator
+            Hub Experience
           </a>
           <span>© 2026 Strata</span>
         </nav>
