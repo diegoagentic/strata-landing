@@ -5,9 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "node scripts/scan-security.mjs && vite build",
     "preview": "vite preview",
-    "typecheck": "tsc -b"
+    "typecheck": "tsc -b",
+    "scan:security": "node scripts/scan-security.mjs"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
